@@ -6,11 +6,11 @@ Software Developer
 
 ![Image text](./banner-software.png)
 
-I am an electronics and communications engineer, since I was 17 years old I started with Linux and took my first steps in programming with C. Thanks to my university education I learned Java and PHP. In a self-taught way I learned my favorite programming languages and since then I have not stopped learning and developing projects, I am passionate about technology and the way it helps us to build a better world!
+I am an electronics and communications engineer, since I was 18 years old I started with Linux and took my first steps in programming with C. Thanks to my university education I learned Java and PHP. In a self-taught way I learned my favorite programming languages and since then I have not stopped learning and developing projects, I am passionate about technology and the way it helps us to build a better world!
 
-* 🌍  I work and collaborate in remote projects and help the community.
-* ✉️  You can contact me on LinkedIn and Twitter
-* 🧠  I'm learning advanced backend and cloud services 
+* 🌍  I work in my country and collaborate in remote projects and help the community.
+* ✉️  You can contact me on LinkedIn.
+* 🧠  I'm learning advanced Backend and Cloud Services 
 
 ### Programming Languages
 
@@ -34,7 +34,6 @@ I am an electronics and communications engineer, since I was 17 years old I star
 ### Backend
 <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/376369/dotnet.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353985/laravel.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 
 ### Databases
@@ -55,7 +54,7 @@ I am an electronics and communications engineer, since I was 17 years old I star
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349342/docker.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353930/jest.svg" width="36" height="36" alt="Jest" /></a>
 <a target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354004/linux-tux.svg" width="36" height="36" alt="Linux" /></a>
-
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 
 
 </p>
@@ -63,7 +62,7 @@ I am an electronics and communications engineer, since I was 17 years old I star
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/giancode1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/giancarlo-culcay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/giancode1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/giancode1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/giancarlo-culcay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
 ### Badges
 
