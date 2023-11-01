@@ -1,7 +1,7 @@
 Hi 👋 My name is Giancarlo
 =================================
 
-Infrastrcuture TI
+IT Infrastructure 
 -------------------------------
 
 ![Image text](./baanner-infraestructura.png)
