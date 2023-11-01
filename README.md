@@ -1,10 +1,10 @@
 Hi 👋 My name is Giancarlo
 =================================
 
-Software Developer
+Infrastrcuture TI
 -------------------------------
 
-![Image text](./banner-software.png)
+![Image text](./baanner-infraestructura.png)
 
 I am an electronics and communications engineer, since I was 18 years old I started with Linux and took my first steps in programming with C. Thanks to my university education I learned Java and PHP. In a self-taught way I learned my favorite programming languages and since then I have not stopped learning and developing projects, I am passionate about technology and the way it helps us to build a better world!
 
@@ -45,7 +45,7 @@ I am an electronics and communications engineer, since I was 18 years old I star
 
 <!-- <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="GO" /></a> -->
 
-### Basic Cloud Computing
+### Cloud Computing
 <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"><img src="./aws.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331302/azure-v2.svg" width="36" height="36" alt="Azure" /></a>
 
