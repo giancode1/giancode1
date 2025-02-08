@@ -1,7 +1,7 @@
 Hi 👋 My name is Giancarlo
 =================================
 
-IT Infrastructure 
+IT Infrastructure and Software Development
 -------------------------------
 
 ![Image text](./baanner-infraestructura.png)
@@ -15,8 +15,8 @@ I am an electronics and communications engineer, since I was 18 years old I star
 ### Programming Languages
 
 <p align="left">
-<a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353622/c-sharp.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353622/c-sharp.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 
